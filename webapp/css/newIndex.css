@@ -1,0 +1,153 @@
+
+      body{
+           background-color:azure;
+          }
+          .all
+          {
+          background-color:azure;
+          }
+        .left
+       {
+        float: left;
+        width: 8%;
+       }
+       .right
+       {
+        float: right;
+        width: 88%;
+         height: 120px;
+       }
+       .right .nav .nav-item a:hover
+    {
+       background-color:aqua;
+       color: #003466;
+       border-radius: 5px;
+    }
+       .left logo img
+       {
+        width: 130px;
+        height: 120px;
+        margin-left: 6px;
+        border-radius: 60px 0px 60px 0px;
+        }
+       .nav
+       {
+        float: right;
+         width: 30%;
+       }
+       .hname
+       {
+        margin-left: 10px;
+        margin-top: 20px;
+        color:#ffffff;
+       }
+       
+       .nav .nav-item a
+       {
+            text-decoration: none;
+            font-size: 20px;
+            color:#ffffff;
+            padding: 10px;
+            background-color: #1070ca;
+  
+       }
+       .nav ul
+       {
+        margin-left: 50px;
+       }
+       .nav ul li{
+        display: inline-block;
+        margin-left: 20px;
+        margin-top: 40px;
+       }
+           .heder
+       {
+        height: 100px;
+        background-color: #003466;
+       }
+      .container .img img
+       {
+        width: 900px;
+        height: 450px;
+        margin-left: 90px;
+       }
+       .container
+       {
+                width:99%;
+        margin-top: 24px;
+       }
+        .container h4,p
+       {
+        margin-left: 80px;
+       }
+       .container h4
+       {
+        font-family:'Times New Roman', Times, serif;
+        color: #003466;
+       }
+       .container p
+       {
+        color: #003466;
+        font-size: 20px;
+        font-family: 'Times New Roman', Times, serif;
+       }
+       .col-md-6.py-5 {
+        margin: -25px;
+       }
+     /* Card sccc*/
+     .col-md-4 {
+        padding: 18px;
+        height: 495px;
+        border-radius:5px;
+        border-radius: 20px;
+      }
+     .card {
+         width:334px;
+          height: 450px;
+          border-radius: 20px;
+           border-radius:5px;
+          }
+       .card:hover
+       {
+          background-color: rgb(38, 0, 255);
+          color: #ffffff;
+          font-size: 20px;
+          font-family: 'Times New Roman', Times, serif;
+          box-shadow: 5px 5px 5px 5px rgb(36, 38, 73);
+          transition: 1.5s;
+             border-radius:5px;
+          }
+     
+       img.card-img-top {
+            width: 333px;
+              border-radius:5px;
+            height: 254px;
+        }
+     
+        .container2 .inner2
+        {
+           margin-left: 100px; 
+         
+        }
+        .container2
+        {
+          width:99%; 
+         
+          }
+         p.card-text {
+            margin-left: 0px;
+            font-size: 18px;
+            font-family: 'Times New Roman', Times, serif;
+          }
+         h5.card-title {
+            text-align: center;
+            font-size: 22px;
+            font-family: fangsong;
+        }
+    
+    .container .img img:hover
+    {
+        width: 950px;
+        height: 470px;
+        transition: 2s;
+    }

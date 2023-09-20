@@ -1,0 +1,148 @@
+/*Navbar and */
+.main3 {
+	margin-left: 150px;
+}
+
+.main3 ul li {
+	display: inline-block;
+	margin-left: 40px;
+}
+
+.main3 ul li a {
+	text-decoration: none;
+	font-size: 20px;
+	border: 1px solid black;
+	padding: 10px;
+	color: white;
+	background-color: aquamarine;
+}
+/*Navrbar */
+/* Profile User details*/
+body {
+	background-color:white;
+}
+
+.main2 {
+	margin-left: 10%;
+	margin-right: 60%;
+	margin-top: 60px;
+	height: 400px;
+	width:400px;
+	text-align: center;
+	border-radius: 10px;
+	background-color: white;
+	border: 1px solid #072848;
+}
+
+.text1 {
+	margin: 30px;
+	top: 0;
+}
+
+.text1 input {
+	height: 40px;
+	width: 350px;
+	font-size: 16px;
+	margin-top: 30px;
+	color: #003466;
+
+	/* background-color: antiquewhite; */
+}
+
+.control1 input {
+	width: 200px;
+	height: 40px;
+	font-size: 18px;
+	text-decoration: none;
+	border: none;
+	color: #003466;
+	margin-top: 20px;
+	border-radius: 20px;
+	/* background-color: antiquewhite; */
+	border: 1px solid blue;
+}
+
+.btn1 {
+	margin: 30px;
+	font-size: large;
+}
+
+.btn1 a {
+	text-decoration: none;
+	padding: 10px;
+	margin-left: 0px;
+}
+
+.control1 input:hover {
+	background-color: blue;
+	color: white;
+}
+
+/*details upto end*/
+
+/*Update User*/
+.main {
+	margin-left: 10%;
+	margin-right: 60%;
+	margin-top: 60px;
+	height: 400px;
+	width:400px;
+	text-align: center;
+	border-radius: 10px;
+	background-color: white;
+	border: 1px solid #072848;
+}
+
+.h {
+	padding: 2px;
+	color: #003466;
+}
+
+.text {
+	margin: 30px;
+	top: 0;
+}
+
+.text input {
+	height: 40px;
+	width: 300px;
+	font-size: 16px;
+	border: none;
+	color: #003466;
+	border-bottom: 1px solid black;
+
+	/* background-color: antiquewhite; */
+}
+
+.text input:focus {
+	outline: none;
+}
+
+.control input {
+	width: 200px;
+	height: 40px;
+	font-size: 18px;
+	text-decoration: none;
+	border: none;
+	color: #003466;
+	border-radius: 20px;
+	/* background-color: antiquewhite; */
+	border: 1px solid blue;
+}
+
+.btn {
+	margin: 30px;
+	font-size: large;
+}
+
+.btn a {
+	text-decoration: none;
+	padding: 10px;
+	margin-left: 0px;
+}
+
+.control input:hover {
+	background-color: blue;
+	color: white;
+}
+/*Update user End*/
